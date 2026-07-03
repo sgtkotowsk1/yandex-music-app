@@ -1,6 +1,6 @@
-# MusicHub — Yandex Music Dashboard
+# MusicHub — Spotify Music Dashboard
 
-A production-ready full-stack web application that connects your Yandex Music account and displays your music library in a beautiful, modern interface.
+A production-ready full-stack web application that connects your Spotify Music account and displays your music library in a beautiful, modern interface.
 
 ## Tech Stack
 
